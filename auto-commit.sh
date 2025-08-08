@@ -3,8 +3,13 @@
 # Navigate to the Logseq directory
 cd /home/simisoft/repos/logseq
 
-# Check if there are any changes
-if [[ -n $(git status --porcelain) ]]; then
+# Check for staged changes or unstaged modifications
+STAGED=$(git diff --cached --name-only)
+UNSTAGED=$(git diff --name-only)
+UNTRACKED=$(git ls-files --others --exclude-standard)
+
+# Check if there are any actual changes (staged, unstaged, or untracked)
+if [[ -n "$STAGED" ]] || [[ -n "$UNSTAGED" ]] || [[ -n "$UNTRACKED" ]]; then
     # Add all changes
     git add .
     
