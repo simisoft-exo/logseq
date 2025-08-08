@@ -16,12 +16,12 @@ title: Vice Breaking
 		- DONE am obiceiul sa iau un pas inapoi cand dau de situatii frustrante
 	- 6 Month Goals [[May 21st, 2022]]
 		- TODO am reusit sa fiu consistent cu nom
-		- TODO am reusit sa obtin oferte pt o pozitie cu equity sanatos la un startup
+		- DONE am reusit sa obtin oferte pt o pozitie cu equity sanatos la un startup
 		- TODO am obiceiul de a flirta
 		- TODO practice in fiecare zi o voce calmsa, acomodanta si profunda
 		- TODO am obiceiul de a scoate tipele la activitatile la care imi place sa particip
 	- 1 Year Goals [[November 21st 2022]]
-		- TODO am un job nou ca inginer de date/backend
+		- DONE am un job nou ca inginer de date/backend
 		- TODO am fost pe munti de peste 4000m in Europa (Dyk Tau)
 		- TODO am, sau sunt aproape de centura albastra la BJJ
 		- TODO am centura galbena, chiar verde la judo
@@ -30,7 +30,7 @@ title: Vice Breaking
 	- 3 Year Goals [[November 21st 2024]]
 		- TODO ma apropii de rolul de tech lead
 		- TODO sunt de cel putin un an intr-o relatie continua (monogama sau nu prea)
-		- TODO am obtinut centura purpurie (sau sunt foarte aproape) in BJJ
+		- DONE am obtinut centura purpurie (sau sunt foarte aproape) in BJJ
 		- TODO am obtinut centura albastra in judo
 		- TODO am participat la o competitie de BJJ
 		- TODO am participat la o competitie de Judo
