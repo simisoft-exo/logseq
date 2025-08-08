@@ -1,0 +1,89 @@
+---
+title: Vice Breaking
+---
+
+- Goals - [[Self Authoring]] - Iteration 1
+	 - 1 Month Goals [[December 21st, 2021]]
+		 - TODO am iesit la pranz cu cel putin o persoana ce am intalnit-o in Londra
+
+		 - TODO am progresat cu clona SQLite in Rust cel putin pana la structura de date de plasat fisierele pe disc
+
+		 - TODO am ajuns in Portugalia in vacanta
+
+		 - TODO am obiceiul sa ma trezesc in fiecare dimineata sa fac yoga si exercitii de mobilitate
+
+	 - 3 Month Goals [[February 21st, 2022]]
+		 - DONE am ajuns la a treia linie BJJ - achieved on [[January 9th, 2022]]
+
+		 - TODO merge deja consistent la clase de Bachata si Salsa la nivelul intermediar
+
+		 - TODO merg la un pranz pe saptamana sa-mi extind reteaua de prieteni si profesionisti
+
+		 - TODO am reusit sa am 3 streakuri de 20 de zile nom
+
+		 - DONE am obiceiul sa iau un pas inapoi cand dau de situatii frustrante
+
+	 - 6 Month Goals [[May 21st, 2022]]
+		 - TODO am reusit sa fiu consistent cu nom
+
+		 - TODO am reusit sa obtin oferte pt o pozitie cu equity sanatos la un startup
+
+		 - TODO am obiceiul de a flirta
+
+		 - TODO practice in fiecare zi o voce calmsa, acomodanta si profunda
+
+		 - TODO am obiceiul de a scoate tipele la activitatile la care imi place sa particip
+
+	 - 1 Year Goals [[November 21st 2022]]
+		 - TODO am un job nou ca inginer de date/backend
+
+		 - TODO am fost pe munti de peste 4000m in Europa (Dyk Tau)
+
+		 - TODO am, sau sunt aproape de centura albastra la BJJ
+
+		 - TODO am centura galbena, chiar verde la judo
+
+		 - TODO am obiceiul sa practic la chitara in fiecare zi si deja stiu un cantec rock/blues
+
+		 - TODO am 80-85 kg
+
+	 - 3 Year Goals [[November 21st 2024]]
+		 - TODO ma apropii de rolul de tech lead
+
+		 - TODO sunt de cel putin un an intr-o relatie continua (monogama sau nu prea)
+
+		 - TODO am obtinut centura purpurie (sau sunt foarte aproape) in BJJ
+
+		 - TODO am obtinut centura albastra in judo
+
+		 - TODO am participat la o competitie de BJJ
+
+		 - TODO am participat la o competitie de Judo
+
+		 - TODO am participat la o competitie de dans
+
+		 - TODO m-am mentinut la 80-85 de kg
+
+		 - TODO am refacut una din piesele de arta
+
+	 - 5 Year Goals [[November 21st 2026]]
+		 - TODO sunt tech lead, sau am fost tech lead si deja am pornit propria afacere
+
+		 - TODO sunt aproape de centura maro la BJJ
+
+		 - TODO sunt aproape de centura neagra la Judo
+
+		 - TODO sunt in forma, mentinandu-ma pe la 80 de kg
+
+		 - TODO am reusit sa mentin relatia inca 2 ani si inca continua
+
+		 - TODO sunt aproape de decizia de a deveni tata
+
+	 - 10 Year Goals [[November 21st 2031]]
+		 - TODO survive
+
+		 - TODO am propria casa
+
+		 - TODO am o afacere prospera de cativa ani
+
+	 - Funeral Goals
